@@ -1,1 +1,8 @@
+run this -> OUTPUT
+PS C:\Users\Vedant\OneDrive\Desktop\2026\Automobile Dashboard> cd "C:\Users\Vedant\OneDrive\Desktop\2026\Automobile Dashboard"
+PS C:\Users\Vedant\OneDrive\Desktop\2026\Automobile Dashboard> python -m streamlit run app.py
 
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://172.16.28.123:8501
